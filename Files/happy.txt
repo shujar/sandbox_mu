@@ -1,3 +1,7 @@
 beacuse I'm verry happy.
 
+<<<<<<< HEAD
 im not hapy anymore!.
+=======
+this is added text
+>>>>>>> origin
